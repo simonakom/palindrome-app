@@ -1,4 +1,4 @@
-# <span><img src="./sort.png" alt=palindrome-app style="height: 1em; vertical-align: middle;"></span> Palindrome App
+# <span><img src="./sort.png" alt=palindrome-app style="height: 1em;"></span> Palindrome App
 
 This responsive app is created with javascript & bootstrap that checks if indicated word is a palindrome.
 
