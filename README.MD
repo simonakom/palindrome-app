@@ -5,4 +5,3 @@ This responsive app is created with javascript & bootstrap that checks if indica
 <h4>🔹 Palindrome app sample - <a href="https://simonakom.github.io/palindrome-app/index.html" style="font-size:small;">View</a><h4>
 
 
-
